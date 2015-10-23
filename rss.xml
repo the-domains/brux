@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BRUX - Büro für Webdesign]]></title>
         <description><![CDATA[BRUX - Büro für Webdesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 08:07:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 08:16:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brux/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You & Me]]></title>
-            <description><![CDATA[<article><h1>You & Me</h1><img src="http://www.oliverbrux.de/content/03-portfolio/10-you-and-me/portfolioYouAndMe04.jpg"></article>]]></description>
-            <link>http://www.oliverbrux.de/portfolio/you-and-me#4</link>
+            <description><![CDATA[<article><h1>You & Me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18543b9b-53f7-443c-927e-3ea7d517021c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brux/2260367b-a467-4aa8-bc11-cc9cd5c0fe89/index.html</link>
             <guid isPermaLink="false">2260367b-a467-4aa8-bc11-cc9cd5c0fe89</guid>
-            <pubDate>Fri, 23 Oct 2015 08:07:08 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 08:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
