@@ -1,6 +1,6 @@
 name: brux
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74715
 typography_spectrum: 0.20544
 title: 'BRUX '
 cta:
@@ -24,6 +24,6 @@ color:
     - '#987170'
   brandStrength: 0.875
   lightness: 1
-  saturation: 0.0625
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
