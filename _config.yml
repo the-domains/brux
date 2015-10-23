@@ -1,0 +1,23 @@
+name: brux
+favicon: null
+layout_spectrum: 0.21678814548067749
+typography_spectrum: 0.28575613792054355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.508288202341646
+  lightness: 0.9234236644115299
+  saturation: 0.9292450421489775
+  rhythmicContrast: 0.6951159350574017
+purpose: []
