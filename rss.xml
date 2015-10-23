@@ -4,7 +4,7 @@
         <description><![CDATA[BRUX - Büro für Webdesign]]></description>
         <link>https://thegrid.ai/brux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 08:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 08:37:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brux/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -16,9 +16,9 @@
         <item>
             <title><![CDATA[You & Me]]></title>
             <description><![CDATA[<article><h1>You & Me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18543b9b-53f7-443c-927e-3ea7d517021c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/brux/2260367b-a467-4aa8-bc11-cc9cd5c0fe89/index.html</link>
+            <link>http://www.oliverbrux.de/portfolio/you-and-me#4</link>
             <guid isPermaLink="false">2260367b-a467-4aa8-bc11-cc9cd5c0fe89</guid>
-            <pubDate>Fri, 23 Oct 2015 08:25:16 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 08:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
