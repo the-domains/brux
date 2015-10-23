@@ -6,26 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-23T09:07:14.694Z'
-dateModified: '2015-10-23T09:06:49.717Z'
+datePublished: '2015-10-23T09:39:51.475Z'
+dateModified: '2015-10-23T09:39:47.158Z'
 title: Risa Reisen
+sourcePath: _posts/2015-10-23-risa-reisen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-risa-reisen.md
-published: true
 url: risa-reisen/index.html
 _type: Article
 
 ---
 Risa Reisen
 
-RISA Reisen ist ein junges Reiseunternehen aus Düsseldorf, welches individual- und Gruppenreisen nach Südamerika anbietet.
-
-Ziel des Relaunches war es das Reiseangebot attraktiv und übersichtlich auf der Webseite darzustellen. Sämtliche Informationen sollten schnell erfassbar sein. Da sich die Webseite vor allem an Endverbraucher richtet sollte Sie zudem auf Tabletts und Smart TVs leicht navigierbar sein.
+RISA Reisen ist ein junges Reiseunternehen aus Düsseldorf, welches individual- und Gruppenreisen nach Südamerika anbietet.Ziel des Relaunches war es das Reiseangebot attraktiv und übersichtlich auf der Webseite darzustellen. Sämtliche Informationen sollten schnell erfassbar sein. Da sich die Webseite vor allem an Endverbraucher richtet sollte Sie zudem auf Tabletts und Smart TVs leicht navigierbar sein.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f8b8c9b-7b55-40b0-a1f3-16fd69ef38d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeee4b02-0359-496f-8505-db8c8227a802.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9cd48f9-a48b-4a92-86b4-648d4d07a89d.jpg)
