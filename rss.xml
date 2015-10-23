@@ -4,8 +4,15 @@
         <description><![CDATA[BRUX - Büro für Webdesign]]></description>
         <link>https://thegrid.ai/brux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 08:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 08:47:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<h1>About</h1>]]></description>
+            <link>https://thegrid.ai/brux/about/index.html</link>
+            <guid isPermaLink="false">90751699-6d46-4e75-9001-087b0c7f3b3f</guid>
+            <pubDate>Fri, 23 Oct 2015 08:46:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b8706ef-057e-409d-a645-4a80f48abf0a.jpg">]]></description>
