@@ -1,6 +1,6 @@
 name: brux
 favicon: null
-layout_spectrum: 0.21678814548067749
+layout_spectrum: 0.78484
 typography_spectrum: 0.28575613792054355
 title: BRUX - Büro für Webdesign
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.9234236644115299
   saturation: 0.9292450421489775
-  rhythmicContrast: 0.6951159350574017
+  rhythmicContrast: 0.5
 purpose: []
