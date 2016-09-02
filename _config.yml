@@ -1,20 +1,4 @@
-name: brux
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.20544
-title: 'BRUX '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5aaa1'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 0.25
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: brux
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About me
+    id: 90751699-6d46-4e75-9001-087b0c7f3b3f
+    type: content
+favicon: null
+title: 'BRUX '
 purpose: []
